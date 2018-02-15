@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Neckermann.at ist in plentymarkets 7 bereits integriert. Um Neckermann.at in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Neckermann.at nötig.",
-    "en": "Neckermann.at is already integrated into your plentymarkets 7 system. A Neckermann.at seller account is mandatory for setting up Neckermann.at in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Neckermann.at wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Neckermann.at zu listen. Die Schnittstelle zu Neckermann.at ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Neckermann.at enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Neckermann.at. The interface to Neckermann.at is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
